@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/boyu2011/.m2/repository/com/sun/jersey/jersey-grizzly2/1.9.1/jersey-grizzly2-1.9.1.jar" sourcepath="/Users/boyu2011/.m2/repository/com/sun/jersey/jersey-grizzly2/1.9.1/jersey-grizzly2-1.9.1-sources.jar">
+		<attributes>
+			<attribute name="maven.groupId" value="com.sun.jersey"/>
+			<attribute name="maven.artifactId" value="jersey-grizzly2"/>
+			<attribute name="maven.version" value="1.9.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/boyu2011/.m2/repository/com/sun/jersey/jersey-core/1.9.1/jersey-core-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Users/boyu2011/.m2/repository/com/sun/jersey/jersey-server/1.9.1/jersey-server-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Users/boyu2011/.m2/repository/com/sun/jersey/jersey-client/jersey-client-1.9.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
